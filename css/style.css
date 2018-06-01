@@ -1,0 +1,108 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#image-wrapper {
+	width: 140px;
+	position: relative;
+	left: 80px;
+	top: 30px;
+}
+
+#header {
+	background: #aab6c4;
+	color: #010080;
+	height: 200px;
+}
+.col-md-9{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#navigation {
+	background: #010066;
+	color: #eecc50;
+	padding: 15px;
+	width: 100%;
+}
+
+
+#navigation li a {
+	color: #eecc50;
+	font-weight: bold;
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+.container{
+	padding:;
+}
+.img-responsive{
+	width: 800px;
+	position: relative;
+	margin:0;
+}
+.col-md-4{
+	position: relative;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+.col-md-4 h2{
+	background:#808080;
+	color:#eecc50;
+	padding: 20px;
+	width: 400px;
+	position: relative;
+	left:0;
+	top:0;
+}
+.col-md.4 h4{
+	font-weight: bold;
+	background: #ffffff;
+	font-size: 
+}
+.col-md-4 p{
+	color:blue;
+	background: #ffffff;
+	font-size: 15px;
+}
+.text-area{
+	background: #cddaea;
+	min-height: 400px;
+}
+.text-red{
+	color: red;
+}
+.container2{
+	background:#000000;
+}
+.footer p{
+	background: #000000;
+	left: 20px;
+	top:10px;
+}
+
+
+.col-md-4 p{
+	color: blue;
+	font-size: 15px;
+}
+.bottom{
+	color:#ffffff;
+	background: 
+}
+
+	
+#hover-effect h2:hover {
+	background: #ffffff ;
+	color: #000000
+}
+
+#overlay {
+	background: rgba(0,0,0,0.7);
+	height: 400px;
+	z-index: 1000;
+}

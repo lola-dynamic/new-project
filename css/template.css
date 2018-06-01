@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+nav li{
+	list-style: none;
+	padding: 10px;
+	float: right;
+	text-align: right;
+	color: #ffffff;
+}
+.container-fluid 
+a{
+	color: #ffffff;
+}
+.clearfix{
+	clear: both;
+	
+}
+.container-fluid{
+	background: -webkit-linear-gradient(left,#fe6e31 , #f84356); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #fe6e31, #f84356); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right,#fe6e31, #f84356); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(right, #fe6e31 , #f84356); /* Standard syntax (must be last) */
+}
+.container h1{
+	color: 
+}
+.col-md-6{
+	float: right;
+	color: #ffffff;
+}
